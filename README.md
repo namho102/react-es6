@@ -1,1 +1,1 @@
-# react-es6
+# React Es6 Boilerplate
